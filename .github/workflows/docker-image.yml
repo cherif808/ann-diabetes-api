@@ -23,4 +23,4 @@ jobs:
         with: 
           context: . 
           push: true 
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/ann-diabetes-api:001
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/ann-diabetes-api:0.1
